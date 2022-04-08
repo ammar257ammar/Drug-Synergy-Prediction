@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+analysis-full.ipynb
+
+final_df.csv
+final_df_descriptors.csv

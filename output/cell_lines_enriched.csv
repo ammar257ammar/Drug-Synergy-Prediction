@@ -1,0 +1,105 @@
+cellName,cosmicId,category,gender,age
+786-0,905947,Cancer cell line,Male,58Y
+A498,905948,Cancer cell line,Male,52Y
+A549/ATCC,905949,Cancer cell line,Male,58Y
+ACHN,905950,Cancer cell line,Male,22Y
+CCRF-CEM,905952,Cancer cell line,Female,4Y
+COLO 205,905961,Cancer cell line,Male,70Y
+DU-145,905935,Cancer cell line,Male,69Y
+EKVX,905970,Cancer cell line,Male,Age unspecified
+HCC-2998,905971,Cancer cell line,Sex unspecified,Age unspecified
+HCT-15,905937,Cancer cell line,Male,Age unspecified
+HCT-116,905936,Cancer cell line,Male,48Y
+HL-60(TB),905938,Cancer cell line,Female,36Y
+HOP-62,905972,Cancer cell line,Female,60Y
+HOP-92,905973,Cancer cell line,Male,62Y
+HT29,905939,Hybridoma,Sex unspecified,Age unspecified
+IGROV1,905968,Cancer cell line,Female,47Y
+K-562,905940,Cancer cell line,Female,53Y
+KM12,905989,Cancer cell line,Sex unspecified,Age unspecified
+LOX IMVI,905974,Cancer cell line,Male,58Y
+MALME-3M,905953,Cancer cell line,Male,43Y
+MCF7,905946,Cancer cell line,Female,69Y
+MOLT-4,905958,Cancer cell line,Male,19Y
+NCI/ADR-RES,905987,Cancer cell line,Female,64Y
+NCI-H23,905942,Cancer cell line,Male,51Y
+NCI-H226,905941,Cancer cell line,Male,Age unspecified
+NCI-H322M,905967,Cancer cell line,Male,52Y
+NCI-H460,905943,Cancer cell line,Male,Age unspecified
+OVCAR-4,905990,Cancer cell line,Female,42Y
+OVCAR-8,905991,Cancer cell line,Female,64Y
+RPMI-8226,905964,Cancer cell line,Male,61Y
+SF-268,905986,Cancer cell line,Female,24Y
+SF-295,905985,Cancer cell line,Female,67Y
+SF-539,905984,Cancer cell line,Female,34Y
+SK-OV-3,905959,Cancer cell line,Female,64Y
+SNB-19,905966,Cancer cell line,Male,75Y
+SNB-75,905982,Cancer cell line,Female,75Y
+SR,905965,Cancer cell line,Male,11Y
+SW-620,905962,Cancer cell line,Male,51Y
+U251,905983,Cancer cell line,Male,75Y
+UACC-257,905977,Cancer cell line,Sex unspecified,Age unspecified
+MDA-MB-468,908123,Cancer cell line,Female,51Y
+T-47D,905945,Cancer cell line,Female,54Y
+TK-10,905980,Cancer cell line,Male,43Y
+BT-549,905951,Cancer cell line,Female,31Y
+M14,905975,Transformed cell line,Sex unspecified,1Y
+MDA-MB-435,905988,Cancer cell line,Male,33Y
+NCI-H522,905944,Cancer cell line,Male,58Y
+UACC-62,905976,Cancer cell line,Sex unspecified,Age unspecified
+SK-MEL-5,905956,Cancer cell line,Female,24Y
+OVCAR-5,905969,Cancer cell line,Female,67Y
+PC-3,905934,Cancer cell line,Female,48Y
+RXF 393,905978,Cancer cell line,Male,54Y
+SK-MEL-2,905955,Cancer cell line,Male,60Y
+SN12C,905979,Cancer cell line,Male,Age unspecified
+UO-31,905981,Cancer cell line,Female,Age unspecified
+CAKI-1,905963,Cancer cell line,Male,49Y
+HS 578T,905957,Cancer cell line,Female,74Y
+MDA-MB-231/ATCC,905960,Cancer cell line,Female,51Y
+OVCAR-3,905933,Cancer cell line,Female,60Y
+SK-MEL-28,905954,Cancer cell line,Male,51Y
+A2058,906792,Cancer cell line,Male,43Y
+A2780,906804,Cancer cell line,Female,Age unspecified
+A375,906793,Cancer cell line,Female,54Y
+A427,910851,Cancer cell line,Male,52Y
+CAOV3,906825,Cancer cell line,Female,54Y
+COLO320DM,,Cancer cell line,Female,55Y
+DLD1,,Cancer cell line,Male,Age unspecified
+EFM192B,,Cancer cell line,Female,46Y
+ES2,1240128,Embryonic stem cell,Male,Age unspecified
+HCT116,905936,Cancer cell line,Male,48Y
+HT144,907067,Cancer cell line,Male,29Y
+KPL1,,Cancer cell line,Female,69Y
+LNCAP,907788,Cancer cell line,Male,50Y
+LOVO,907790,Cancer cell line,Male,56Y
+MDAMB436,1240172,Cancer cell line,Female,43Y
+NCIH1650,687800,Cancer cell line,Male,27Y
+NCIH2122,722046,Cancer cell line,Female,46Y
+NCIH23,905942,Cancer cell line,Male,51Y
+NCIH460,905943,Cancer cell line,Male,Age unspecified
+NCIH520,908443,Cancer cell line,Male,Age unspecified
+OCUBM,909256,Cancer cell line,Female,53Y
+OV90,1240197,Cancer cell line,Female,64Y
+OVCAR3,905933,Cancer cell line,Female,60Y
+PA1,909255,Cancer cell line,Female,Age unspecified
+RKO,909698,Cancer cell line,Sex unspecified,Age unspecified
+RPMI7951,910903,Cancer cell line,Female,18Y
+SKMES1,909728,Cancer cell line,Male,65Y
+SKMEL30,909726,Cancer cell line,Male,67Y
+SKOV3,905959,Cancer cell line,Female,64Y
+SW620,905962,Cancer cell line,Male,51Y
+SW837,909755,Cancer cell line,Male,53Y
+T47D,905945,Cancer cell line,Female,54Y
+UACC62,905976,Cancer cell line,Sex unspecified,Age unspecified
+UWB1289,1480374,Cancer cell line,Female,56Y
+UWB1289BRCA1,,Cancer cell line,Female,56Y
+VCAP,1299075,Cancer cell line,Male,59Y
+ZR751,,Cancer cell line,Female,63Y
+MSTO,908152,Cancer cell line,Male,62Y
+A-375,906793,Cancer cell line,Female,54Y
+COLO 858,,Cancer cell line,Male,43Y
+WM-115,909784,Cancer cell line,Female,55Y
+MMAC-SF,925339,Cancer cell line,Female,39Y
+MZ7-mel,753596,Cancer cell line,Female,25Y
+TMD8,,Cancer cell line,Male,62Y
